@@ -106,6 +106,7 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+// base64(http://81.70.77.5:7800/tv/) = Y2xhbjovLzFjYXR2b2QvdHYvbXR2LnR4dA==
 "proxy://do=live&type=txt&ext=aHR0cDovLzgxLjcwLjc3LjU6NzgwMC90di8="
 ]}]}],
 
