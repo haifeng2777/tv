@@ -77,10 +77,10 @@
 {"key":"csp_appysv2_聚多影视","name":"聚多影视(ysv2)","type": 3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://jdys.weetai.cn/api.php/iptv/vod/"},
 {"key":"csp_appysv2_刺猬影视","name":"刺猬影视(ysv2)","type": 3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"csp_appysv2_熊猫动漫","name":"熊猫动漫(ysv2)","type": 3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
-{"key":"csp_appysv2_乐云影视","name":"乐云影视(ysv2)","type": 3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.leyun.tv/api.php/v1.vod"}],
+{"key":"csp_appysv2_乐云影视","name":"乐云影视(ysv2)","type": 3,"api":"csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://www.leyun.tv/api.php/v1.vod"},
 
 
-{"key":"csp_qiepian_艾思影院","name":"艾思影院(qp)","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/"   ,"playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
+{"key":"csp_qiepian_艾思影院","name":"艾思影院(qp)","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_qiepian_看猫影视","name":"看猫影视(qp)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 
 
