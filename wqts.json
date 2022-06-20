@@ -18,12 +18,12 @@
 {"key": "csp_在线之家","name": "🌱在线之家(SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_1990电影","name": "🔶1990电影(SP)","type": 3,"api": "csp_DY1990","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_Olevod","name": "🎬Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bili","name": "😊😀相声小品(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://breadmyth.github.io/tv/MeowXP/csp_Bili.json"},
+{"key": "csp_泥巴影视","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_Olevod","name": "🎬Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_相声小品","name": "😊😀相声小品(SP)","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_小纸条","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0},
 //{"key": "csp_喵狸盘搜","name": "🐱喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_泥巴影视","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 {"key":"csp_xpath_厂长资源","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/厂长资源(xp).json"},
