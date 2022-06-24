@@ -19,8 +19,8 @@
 {"key": "csp_1990电影","name": "🔶1990电影(SP)","type": 3,"api": "csp_DY1990","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Bili","name": "😊😀相声小品(SP)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://breadmyth.github.io/tv/MeowXP/csp_Bili.json"},
-{"key": "csp_小纸条","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "16a6bcdc8a864abca6f986d150b49e9e"},
-{"key": "csp_喵狸盘搜","name": "🐱喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "16a6bcdc8a864abca6f986d150b49e9e"},
+{"key": "csp_小纸条","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "5022152586a04861847a914a4c1c6790"},
+{"key": "csp_喵狸盘搜","name": "🐱喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "5022152586a04861847a914a4c1c6790"},
 {"key": "csp_泥巴影视","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Olevod","name": "🎬Olevod(SP)","type": 3,"api": "csp_Olevod","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_相声小品","name": "😊😀相声小品(SP)","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -102,7 +102,7 @@
 {"key":"php_斗鱼直播","name":"🐟斗鱼直播(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"php_开麦K歌搜人","name":"开麦K歌搜人(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"php_开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0},
-{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"16a6bcdc8a864abca6f986d150b49e9e"}
+{"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"5022152586a04861847a914a4c1c6790"}
 //{"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0}
 ],
 
