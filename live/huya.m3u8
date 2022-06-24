@@ -25,10 +25,6 @@ http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-28
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
 
 #EXTM3U
-#EXTINF:-1 ,【RM-点播】点播！模式-24H欢乐不断
-http://epg.112114.xyz/douyu/131977
-#EXTINF:-1 ,【RM-轮播】轮播！模式-24H欢乐不断
-http://epg.112114.xyz/douyu/7298973
 #EXTINF:-1 ,✨✨✨计划！五一节の快乐✨✨✨
 http://epg.112114.xyz/douyu/7528160
 #EXTINF:-1 ,【回首往事】仨房间画面同步显示
@@ -376,7 +372,7 @@ http://txtest-xp2p.p2p.huya.com/src/1423787865-1423787865-6115122316616663040-28
 #EXTINF:-1 ,DD-VVqin 大笑江湖：别太放肆没什么用
 http://txtest-xp2p.p2p.huya.com/src/1199584094118-1199584094118-5532856473631064064-2399168311692-10057-A-0-1.xs
 
-#EXTINF:-1 group-title="轮播",周星驰-粤语
+#EXTINF:-1 ,周星驰-粤语
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 #EXTINF:-1 ,周星驰
 http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
