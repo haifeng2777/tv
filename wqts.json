@@ -11,7 +11,7 @@
 
 {"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+//{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_360","name": "😇360(官源)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_快看","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -56,7 +56,6 @@
 {"key":"csp_biubiu_City电影","name":"City电影(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/City电影(xb).json"},
 {"key":"csp_biubiu_看片狂人","name":"看片狂人(xb)","type": 3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/看片狂人(xb).json"},
 {"key":"csp_biubiu_大米星球","name":"大米星球(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/大米星球(xb).json"},
-{"key":"csp_biubiu_瓜皮TV","name":"瓜皮TV(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/瓜皮TV(xb)"},
 {"key":"csp_biubiu_TVB云播","name":"TVB云播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/TVB云播(xb).json"},
 {"key":"csp_biubiu_4kan电影网","name":"4kan电影网(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/4kan电影网(xb).json"},
 {"key":"csp_biubiu_真的卡影院","name":"真的卡影院(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/真的卡影院(xb).json"},
@@ -99,7 +98,7 @@
 {"key":"csp_xpath_酷奇MV","name":"🎸酷奇MV(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/酷奇MV(xp).json"},
 {"key":"csp_xpath_虎牙直播","name":"🐅虎牙直播(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/虎牙直播(xp).json"},
 {"key":"csp_biubiu_斗鱼直播","name":"🐟斗鱼直播(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/斗鱼直播(xb).json"},
-{"key":"php_斗鱼直播","name":"🐟斗鱼直播(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
+//{"key":"php_斗鱼直播","name":"🐟斗鱼直播(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/douyu.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"php_开麦K歌搜人","name":"开麦K歌搜人(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"php_开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0},
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"5022152586a04861847a914a4c1c6790"}
