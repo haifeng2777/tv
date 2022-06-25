@@ -3,7 +3,7 @@
 ## 究极无敌缝合源,东拼西凑,不加密,大佬们突然撤源,留下一堆加密图片,风中凌乱,特别感谢所有源原作者,感谢!
 
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://breadmyth.github.io/tv/jar/0625.jar",
+  "spider": "https://breadmyth.github.io/tv/jar/wq666.jar",
 
 
 "sites": [
@@ -25,6 +25,7 @@
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_哔哩套餐","name": "🅱哔哩套餐","type": 3,"api": "csp_BBB","searchable": 0,"quickSearch": 0,"filterable": 1},
 {"key": "csp_相声小品","name": "😊😀相声小品(SP)","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "csp_两个BT","name": "🐞两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_真不卡","name": "🐞真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_奇粹影视","name": "🐞奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -33,11 +34,12 @@
 {"key": "csp_Bli演唱","name": "🎤演唱会(SP)","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bli动物","name": "🐕动物世界(SP)","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Bli戏曲","name": "🥳戏曲(SP)","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "csp_小纸条","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
-{"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key": "csp_泥巴影视","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key":"csp_xpath_厂长资源","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/厂长资源(xp).json"},
