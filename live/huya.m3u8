@@ -1,302 +1,303 @@
-#EXTM3U
-#EXTINF:-1 group-title="电影轮播",周星驰粤语
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="周星驰粤语" tvg-logo="" group-title="电影轮播",周星驰粤语
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",吴孟达
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="吴孟达" tvg-logo="" group-title="电影轮播",吴孟达
 http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",李连杰
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="李连杰" tvg-logo="" group-title="电影轮播",李连杰
 http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",中国功夫
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="中国功夫" tvg-logo="" group-title="电影轮播",中国功夫
 http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",成龙
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="成龙" tvg-logo="" group-title="电影轮播",成龙
 http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",甄子丹
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="甄子丹" tvg-logo="" group-title="电影轮播",甄子丹
 http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",周润发
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="周润发" tvg-logo="" group-title="电影轮播",周润发
 http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",洪金宝
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="洪金宝" tvg-logo="" group-title="电影轮播",洪金宝
 http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",喜剧系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="喜剧系列" tvg-logo="" group-title="电影轮播",喜剧系列
 http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",沈腾
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="沈腾" tvg-logo="" group-title="电影轮播",沈腾
 http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",刘家辉
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="刘家辉" tvg-logo="" group-title="电影轮播",刘家辉
 http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",历年贺岁大片
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="历年贺岁大片" tvg-logo="" group-title="电影轮播",历年贺岁大片
 http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",林正英
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="林正英" tvg-logo="" group-title="电影轮播",林正英
 http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",刘德华
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="刘德华" tvg-logo="" group-title="电影轮播",刘德华
 http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",黄渤
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="黄渤" tvg-logo="" group-title="电影轮播",黄渤
 http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",咏春系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="咏春系列" tvg-logo="" group-title="电影轮播",咏春系列
 http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",黑帮系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="黑帮系列" tvg-logo="" group-title="电影轮播",黑帮系列
 http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",古墓系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="古墓系列" tvg-logo="" group-title="电影轮播",古墓系列
 http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",赛车系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="赛车系列" tvg-logo="" group-title="电影轮播",赛车系列
 http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",警匪系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="警匪系列" tvg-logo="" group-title="电影轮播",警匪系列
 http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",动作大片
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="动作大片" tvg-logo="" group-title="电影轮播",动作大片
 http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",玄幻系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="玄幻系列" tvg-logo="" group-title="电影轮播",玄幻系列
 http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",古装武侠
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="古装武侠" tvg-logo="" group-title="电影轮播",古装武侠
 http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",香港女神系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="香港女神系列" tvg-logo="" group-title="电影轮播",香港女神系列
 http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",王晶导演
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="王晶导演" tvg-logo="" group-title="电影轮播",王晶导演
 http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",金庸武侠系列
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="金庸武侠系列" tvg-logo="" group-title="电影轮播",金庸武侠系列
 http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
-#EXTINF:-1 group-title="电影轮播",偷心大盗ヽ龍宝 成龙经典武打动作片
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="偷心大盗ヽ龍宝 成龙经典武打动作片" tvg-logo="" group-title="电影轮播",偷心大盗ヽ龍宝 成龙经典武打动作片
 http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.xs
-#EXTINF:-1 group-title="电影轮播",周星星 【周星星】星爷经典不间断
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="周星星 【周星星】星爷经典不间断" tvg-logo="" group-title="电影轮播",周星星 【周星星】星爷经典不间断
 http://txtest-xp2p.p2p.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.xs
 
-#EXTINF:-1 ,✨✨✨计划！五一节の快乐✨✨✨
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✨✨✨✨✨✨" tvg-logo="" group-title="✨✨✨✨✨✨",✨✨✨✨✨✨
 http://epg.112114.xyz/douyu/7528160
-#EXTINF:-1 ,【回首往事】仨房间画面同步显示
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【回首往事】仨房间画面同步显示" tvg-logo="" group-title="✨✨✨✨✨✨",【回首往事】仨房间画面同步显示
 http://epg.112114.xyz/douyu/1569773
-#EXTINF:-1 ,大星与海绵方块
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="大星与海绵方块" tvg-logo="" group-title="✨✨✨✨✨✨",大星与海绵方块
 http://epg.112114.xyz/douyu/3949681
-#EXTINF:-1 ,美味！蟹黄堡
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="美味！蟹黄堡" tvg-logo="" group-title="✨✨✨✨✨✨",美味！蟹黄堡
 http://epg.112114.xyz/douyu/8762358
-#EXTINF:-1 ,海绵与大星直播间
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="海绵与大星直播间" tvg-logo="" group-title="✨✨✨✨✨✨",海绵与大星直播间
 http://epg.112114.xyz/douyu/2250349
-#EXTINF:-1 ,【猫和老鼠】汤姆和杰瑞童年回忆
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【猫和老鼠】汤姆和杰瑞童年回忆" tvg-logo="" group-title="✨✨✨✨✨✨",【猫和老鼠】汤姆和杰瑞童年回忆
 http://epg.112114.xyz/douyu/7888428
-#EXTINF:-1 ,【柯南】外表看似小孩，智慧却过于常人
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【柯南】外表看似小孩，智慧却过于常人" tvg-logo="" group-title="✨✨✨✨✨✨",【柯南】外表看似小孩，智慧却过于常人
 http://epg.112114.xyz/douyu/6484910
-#EXTINF:-1 ,江户川柯南，是一个蒸蛋。
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="江户川柯南，是一个蒸蛋。" tvg-logo="" group-title="✨✨✨✨✨✨",江户川柯南，是一个蒸蛋。
 http://epg.112114.xyz/douyu/5377297
-#EXTINF:-1 ,万年如一柯播南，各位给点电费吧
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="万年如一柯播南，各位给点电费吧" tvg-logo="" group-title="✨✨✨✨✨✨",万年如一柯播南，各位给点电费吧
 http://epg.112114.xyz/douyu/1783144
-#EXTINF:-1 ,【三笠】根本不存在解不开的迷！
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【三笠】根本不存在解不开的迷！" tvg-logo="" group-title="✨✨✨✨✨✨",【三笠】根本不存在解不开的迷！
 http://epg.112114.xyz/douyu/7050342
-#EXTINF:-1 ,【超级赛亚人】悟吉塔
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【超级赛亚人】悟吉塔" tvg-logo="" group-title="✨✨✨✨✨✨",【超级赛亚人】悟吉塔
 http://epg.112114.xyz/douyu/7190773
-#EXTINF:-1 ,草帽丶海贼团的直播间
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="草帽丶海贼团的直播间" tvg-logo="" group-title="✨✨✨✨✨✨",草帽丶海贼团的直播间
 http://epg.112114.xyz/douyu/997925
-#EXTINF:-1 ,【Hunter】动漫热血老贼冒险
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【Hunter】动漫热血老贼冒险" tvg-logo="" group-title="✨✨✨✨✨✨",【Hunter】动漫热血老贼冒险
 http://epg.112114.xyz/douyu/6610883
-#EXTINF:-1 ,少女与半妖
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="少女与半妖" tvg-logo="" group-title="✨✨✨✨✨✨",少女与半妖
 http://epg.112114.xyz/douyu/7422897
-#EXTINF:-1 ,宝可梦加油。感谢大家。
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="宝可梦加油。感谢大家。" tvg-logo="" group-title="✨✨✨✨✨✨",宝可梦加油。感谢大家。
 http://epg.112114.xyz/douyu/9765742
-#EXTINF:-1 ,星矢-燃烧吧我的小宇宙
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="星矢-燃烧吧我的小宇宙" tvg-logo="" group-title="✨✨✨✨✨✨",星矢-燃烧吧我的小宇宙
 http://epg.112114.xyz/douyu/8458270
-#EXTINF:-1 ,松开的手0.0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="松开的手0.0" tvg-logo="" group-title="✨✨✨✨✨✨",松开的手0.0
 http://epg.112114.xyz/douyu/10210568
-#EXTINF:-1 ,浦饭幽游藏马飞影桑原
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="浦饭幽游藏马飞影桑原" tvg-logo="" group-title="✨✨✨✨✨✨",浦饭幽游藏马飞影桑原
 http://epg.112114.xyz/douyu/9938431
-#EXTINF:-1 ,【童年往事】仨房间画面同步显示点播
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【童年往事】仨房间画面同步显示点播" tvg-logo="" group-title="✨✨✨✨✨✨",【童年往事】仨房间画面同步显示点播
 http://epg.112114.xyz/douyu/7256376
-#EXTINF:-1 ,✨妖精的直播间✨
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✨妖精的直播间✨" tvg-logo="" group-title="✨✨✨✨✨✨",✨妖精的直播间✨
 http://epg.112114.xyz/douyu/5960746
-#EXTINF:-1 ,【天使点播】动漫直播间
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【天使点播】动漫直播间" tvg-logo="" group-title="✨✨✨✨✨✨",【天使点播】动漫直播间
 http://epg.112114.xyz/douyu/1487654
-#EXTINF:-1 ,【动漫】超燃怀旧经典
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【动漫】超燃怀旧经典" tvg-logo="" group-title="✨✨✨✨✨✨",【动漫】超燃怀旧经典
 http://epg.112114.xyz/douyu/1174353
-#EXTINF:-1 ,✨动漫✨热血木叶忍者草帽路飞青春
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="✨动漫✨热血木叶忍者草帽路飞青春" tvg-logo="" group-title="✨✨✨✨✨✨",✨动漫✨热血木叶忍者草帽路飞青春
 http://epg.112114.xyz/douyu/206858
-#EXTINF:-1 ,#
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="#" tvg-logo="" group-title="✨✨✨✨✨✨",#
 http://epg.112114.xyz/douyu/9429545
-#EXTINF:-1 ,【动画电影】童年回忆
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【动画电影】童年回忆" tvg-logo="" group-title="✨✨✨✨✨✨",【动画电影】童年回忆
 http://epg.112114.xyz/douyu/10395973
-#EXTINF:-1 ,【星星动画】童年热血搞笑爱情
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【星星动画】童年热血搞笑爱情" tvg-logo="" group-title="✨✨✨✨✨✨",【星星动画】童年热血搞笑爱情
 http://epg.112114.xyz/douyu/4369939
-#EXTINF:-1 ,【追忆】国语超清动画电影
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【追忆】国语超清动画电影" tvg-logo="" group-title="✨✨✨✨✨✨",【追忆】国语超清动画电影
 http://epg.112114.xyz/douyu/6449849
-#EXTINF:-1 ,♥卡面来打♥
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="♥卡面来打♥" tvg-logo="" group-title="✨✨✨✨✨✨",♥卡面来打♥
 http://epg.112114.xyz/douyu/1218414
-#EXTINF:-1 ,【动漫】24小时不间断动漫专场
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【动漫】24小时不间断动漫专场" tvg-logo="" group-title="✨✨✨✨✨✨",【动漫】24小时不间断动漫专场
 http://epg.112114.xyz/douyu/7493575
-#EXTINF:-1 ,老爹:还有一件事
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="老爹:还有一件事" tvg-logo="" group-title="✨✨✨✨✨✨",老爹:还有一件事
 http://epg.112114.xyz/douyu/7134757
-#EXTINF:-1 ,开心锤锤，开心快乐每一天！
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="开心锤锤，开心快乐每一天！" tvg-logo="" group-title="✨✨✨✨✨✨",开心锤锤，开心快乐每一天！
 http://epg.112114.xyz/douyu/9018297
-#EXTINF:-1 ,舔狗波比的幸福生活
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="舔狗波比的幸福生活" tvg-logo="" group-title="✨✨✨✨✨✨",舔狗波比的幸福生活
 http://epg.112114.xyz/douyu/7620081
-#EXTINF:-1 ,最好看的搞笑篮球动漫
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="最好看的搞笑篮球动漫" tvg-logo="" group-title="✨✨✨✨✨✨",最好看的搞笑篮球动漫
 http://epg.112114.xyz/douyu/9401305
-#EXTINF:-1 ,【动漫】记录你的王者峡谷生活~
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【动漫】记录你的王者峡谷生活~" tvg-logo="" group-title="✨✨✨✨✨✨",【动漫】记录你的王者峡谷生活~
 http://epg.112114.xyz/douyu/9360149
-#EXTINF:-1 ,【小叮当】童年经典动画片
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【小叮当】童年经典动画片" tvg-logo="" group-title="✨✨✨✨✨✨",【小叮当】童年经典动画片
 http://epg.112114.xyz/douyu/9445279
-#EXTINF:-1 ,二次元放映室，有呐味儿了!
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="二次元放映室，有呐味儿了!" tvg-logo="" group-title="✨✨✨✨✨✨",二次元放映室，有呐味儿了!
 http://epg.112114.xyz/douyu/8912038
-#EXTINF:-1 ,中二日记搞笑日常更新
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="中二日记搞笑日常更新" tvg-logo="" group-title="✨✨✨✨✨✨",中二日记搞笑日常更新
 http://epg.112114.xyz/douyu/9505575
-#EXTINF:-1 ,动漫推荐官方直播间
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="动漫推荐官方直播间" tvg-logo="" group-title="✨✨✨✨✨✨",动漫推荐官方直播间
 http://epg.112114.xyz/douyu/5187099
-#EXTINF:-1 ,【经典动漫】9455567
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【经典动漫】9455567" tvg-logo="" group-title="✨✨✨✨✨✨",【经典动漫】9455567
 http://epg.112114.xyz/douyu/9455567
-#EXTINF:-1 ,鲁过一世的直播间
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="鲁过一世的直播间" tvg-logo="" group-title="✨✨✨✨✨✨",鲁过一世的直播间
 http://epg.112114.xyz/douyu/9716515
-#EXTINF:-1 ,星海璃幻V的直播间
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="星海璃幻V的直播间" tvg-logo="" group-title="✨✨✨✨✨✨",星海璃幻V的直播间
 http://epg.112114.xyz/douyu/9567313
-#EXTINF:-1 ,铁头与橘子（每周更新一起看霸总）
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="铁头与橘子（每周更新一起看霸总）" tvg-logo="" group-title="✨✨✨✨✨✨",铁头与橘子（每周更新一起看霸总）
 http://epg.112114.xyz/douyu/9450942
-#EXTINF:-1 ,笑出腹肌动漫0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="笑出腹肌动漫0" tvg-logo="" group-title="✨✨✨✨✨✨",笑出腹肌动漫0
 http://epg.112114.xyz/douyu/8380708
-#EXTINF:-1 ,【神剧】经典神剧
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【神剧】经典神剧" tvg-logo="" group-title="✨✨✨✨✨✨",【神剧】经典神剧
 http://epg.112114.xyz/douyu/3700024
-#EXTINF:-1 ,【贝爷MAX厅】科幻动作经典喜剧
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【贝爷MAX厅】科幻动作经典喜剧" tvg-logo="" group-title="✨✨✨✨✨✨",【贝爷MAX厅】科幻动作经典喜剧
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 ,【贝爷影厅】经典科幻动作灾难巨兽
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【贝爷影厅】经典科幻动作灾难巨兽" tvg-logo="" group-title="✨✨✨✨✨✨",【贝爷影厅】经典科幻动作灾难巨兽
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 ,【女神金】60帧极致蓝光刀刀陪看
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【女神金】60帧极致蓝光刀刀陪看" tvg-logo="" group-title="✨✨✨✨✨✨",【女神金】60帧极致蓝光刀刀陪看
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 ,【西游】由爱故生怨，怨恨交缠，那又何苦
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【西游】由爱故生怨，怨恨交缠，那又何苦" tvg-logo="" group-title="✨✨✨✨✨✨",【西游】由爱故生怨，怨恨交缠，那又何苦
 http://epg.112114.xyz/douyu/9518204
-#EXTINF:-1 ,狄仁杰：想听听我的故事吗
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="狄仁杰：想听听我的故事吗" tvg-logo="" group-title="✨✨✨✨✨✨",狄仁杰：想听听我的故事吗
 http://epg.112114.xyz/douyu/674441
-#EXTINF:-1 ,【牛叔】N分钟带你看完大片
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【牛叔】N分钟带你看完大片" tvg-logo="" group-title="✨✨✨✨✨✨",【牛叔】N分钟带你看完大片
 http://epg.112114.xyz/douyu/2758565
-#EXTINF:-1 ,【科幻Fans】精彩科幻影视，解说连连看
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="【科幻Fans】精彩科幻影视，解说连连看" tvg-logo="" group-title="✨✨✨✨✨✨",【科幻Fans】精彩科幻影视，解说连连看
 http://epg.112114.xyz/douyu/3508304
-#EXTINF:-1 ,最新奇幻电影解说-宇宙无敌韩三金
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="最新奇幻电影解说-宇宙无敌韩三金" tvg-logo="" group-title="✨✨✨✨✨✨",最新奇幻电影解说-宇宙无敌韩三金
 http://epg.112114.xyz/douyu/3194372
-#EXTINF:-1 ,阿斗归来了 神秘诅咒背后隐藏的秘密
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="阿斗归来了 神秘诅咒背后隐藏的秘密" tvg-logo="" group-title="✨✨✨✨✨✨",阿斗归来了 神秘诅咒背后隐藏的秘密
 http://txtest-xp2p.p2p.huya.com/src/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,鯎爺 滚滚长江东逝水
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="鯎爺 滚滚长江东逝水" tvg-logo="" group-title="✨✨✨✨✨✨",鯎爺 滚滚长江东逝水
 http://txtest-xp2p.p2p.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34" tvg-logo="" group-title="✨✨✨✨✨✨",斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34
 http://txtest-xp2p.p2p.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.xs
-#EXTINF:-1 ,野原新之助- 蜡笔小新·逗比少年欢乐多
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="野原新之助- 蜡笔小新·逗比少年欢乐多" tvg-logo="" group-title="✨✨✨✨✨✨",野原新之助- 蜡笔小新·逗比少年欢乐多
 http://txtest-xp2p.p2p.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,小木子先生丶 纪晓岚-岚宝珅宝的爱恨情仇
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="小木子先生丶 纪晓岚-岚宝珅宝的爱恨情仇" tvg-logo="" group-title="✨✨✨✨✨✨",小木子先生丶 纪晓岚-岚宝珅宝的爱恨情仇
 http://txtest-xp2p.p2p.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,胖虎噜噜噜 最后的假日
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="胖虎噜噜噜 最后的假日" tvg-logo="" group-title="✨✨✨✨✨✨",胖虎噜噜噜 最后的假日
 http://txtest-xp2p.p2p.huya.com/src/1199527202658-1199527202658-5288509513509371904-2399054528772-10057-A-0-1.xs
-#EXTINF:-1 ,瞬间爆炸 身世神秘的范闲书写人生传奇
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="瞬间爆炸 身世神秘的范闲书写人生传奇" tvg-logo="" group-title="✨✨✨✨✨✨",瞬间爆炸 身世神秘的范闲书写人生传奇
 http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
-#EXTINF:-1 ,大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？" tvg-logo="" group-title="✨✨✨✨✨✨",大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？
 http://txtest-xp2p.p2p.huya.com/src/1199531762115-1199531762115-5308092232211890176-2399063647686-10057-A-0-1.xs
-#EXTINF:-1 ,大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦" tvg-logo="" group-title="✨✨✨✨✨✨",大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦
 http://txtest-xp2p.p2p.huya.com/src/1199573065336-1199573065336-5485488215626350592-2399146254128-10057-A-0-1.xs
-#EXTINF:-1 ,扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》" tvg-logo="" group-title="✨✨✨✨✨✨",扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》
 http://txtest-xp2p.p2p.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.xs
-#EXTINF:-1 ,Mz玲珑丶819 万万没想到，勇敢牛牛，不怕困难
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mz玲珑丶819 万万没想到，勇敢牛牛，不怕困难" tvg-logo="" group-title="✨✨✨✨✨✨",Mz玲珑丶819 万万没想到，勇敢牛牛，不怕困难
 http://txtest-xp2p.p2p.huya.com/src/1199523155564-1199523155564-5271127377135534080-2399046434584-10057-A-0-1.xs
-#EXTINF:-1 ,痞子帅叔叔 【超级交通站】抗ri情景喜剧
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="痞子帅叔叔 【超级交通站】抗ri情景喜剧" tvg-logo="" group-title="✨✨✨✨✨✨",痞子帅叔叔 【超级交通站】抗ri情景喜剧
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
-#EXTINF:-1 ,DD-柠檬 僵尸  鬼片经典
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD-柠檬 僵尸  鬼片经典" tvg-logo="" group-title="✨✨✨✨✨✨",DD-柠檬 僵尸  鬼片经典
 http://txtest-xp2p.p2p.huya.com/src/1199582504831-1199582504831-5526030537942106112-2399165133118-10057-A-0-1.xs
-#EXTINF:-1 ,狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02" tvg-logo="" group-title="✨✨✨✨✨✨",狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02
 http://txtest-xp2p.p2p.huya.com/src/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.xs
-#EXTINF:-1 ,-懒猪 少年包青黑之旅
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="-懒猪 少年包青黑之旅" tvg-logo="" group-title="✨✨✨✨✨✨",-懒猪 少年包青黑之旅
 http://txtest-xp2p.p2p.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,枫哥视 飞出个未来
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="枫哥视 飞出个未来" tvg-logo="" group-title="✨✨✨✨✨✨",枫哥视 飞出个未来
 http://txtest-xp2p.p2p.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.xs
-#EXTINF:-1 ,我是詹密 雍正皇帝的风云一生
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="我是詹密 雍正皇帝的风云一生" tvg-logo="" group-title="✨✨✨✨✨✨",我是詹密 雍正皇帝的风云一生
 http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
-#EXTINF:-1 ,利世-余小二 【龙珠超动画】召开力之大会32
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="利世-余小二 【龙珠超动画】召开力之大会32" tvg-logo="" group-title="✨✨✨✨✨✨",利世-余小二 【龙珠超动画】召开力之大会32
 http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs
-#EXTINF:-1 ,鱼塘塘主张年年 新水hu·在下正是西公子！
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="鱼塘塘主张年年 新水hu·在下正是西公子！" tvg-logo="" group-title="✨✨✨✨✨✨",鱼塘塘主张年年 新水hu·在下正是西公子！
 http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
-#EXTINF:-1 ,领带哥 许三多军营成长史
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="领带哥 许三多军营成长史" tvg-logo="" group-title="✨✨✨✨✨✨",领带哥 许三多军营成长史
 http://txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
-#EXTINF:-1 ,SG-甜橙Q 秋名山89上山 奔驰上树
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SG-甜橙Q 秋名山89上山 奔驰上树" tvg-logo="" group-title="✨✨✨✨✨✨",SG-甜橙Q 秋名山89上山 奔驰上树
 http://txtest-xp2p.p2p.huya.com/src/1199586792263-1199586792263-5544444918165929984-2399173707982-10057-A-0-1.xs
-#EXTINF:-1 ,裸奔的蜗牛╮ 康熙·民间私访
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="裸奔的蜗牛╮ 康熙·民间私访" tvg-logo="" group-title="✨✨✨✨✨✨",裸奔的蜗牛╮ 康熙·民间私访
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
-#EXTINF:-1 ,傻妞 【邻li一家亲】满院白眼狼
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="傻妞 【邻li一家亲】满院白眼狼" tvg-logo="" group-title="✨✨✨✨✨✨",傻妞 【邻li一家亲】满院白眼狼
 http://txtest-xp2p.p2p.huya.com/src/1394575549-1394575549-5989656374756245504-2789274554-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,科幻梦工场 科幻电影《沙丘魔蚁》
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="科幻梦工场 科幻电影《沙丘魔蚁》" tvg-logo="" group-title="✨✨✨✨✨✨",科幻梦工场 科幻电影《沙丘魔蚁》
 http://txtest-xp2p.p2p.huya.com/src/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,yao不能停 在外三藏獒，在家三二哈
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="yao不能停 在外三藏獒，在家三二哈" tvg-logo="" group-title="✨✨✨✨✨✨",yao不能停 在外三藏獒，在家三二哈
 http://txtest-xp2p.p2p.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.xs
-#EXTINF:-1 ,柯冉冉 龙men·老奸巨猾年掌柜
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="柯冉冉 龙men·老奸巨猾年掌柜" tvg-logo="" group-title="✨✨✨✨✨✨",柯冉冉 龙men·老奸巨猾年掌柜
 http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
-#EXTINF:-1 ,萌新司机 大秦，终章！
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="萌新司机 大秦，终章！" tvg-logo="" group-title="✨✨✨✨✨✨",萌新司机 大秦，终章！
 http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
-#EXTINF:-1 ,实力拔萝卜 搞笑恐怖类 弹幕护体
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="实力拔萝卜 搞笑恐怖类 弹幕护体" tvg-logo="" group-title="✨✨✨✨✨✨",实力拔萝卜 搞笑恐怖类 弹幕护体
 http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
-#EXTINF:-1 ,Wang-我的女人 康熙大帝的传奇一生
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wang-我的女人 康熙大帝的传奇一生" tvg-logo="" group-title="✨✨✨✨✨✨",Wang-我的女人 康熙大帝的传奇一生
 http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
-#EXTINF:-1 ,四次元先生 相识、相知、相爱、相守的父母爱情
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="四次元先生 相识、相知、相爱、相守的父母爱情" tvg-logo="" group-title="✨✨✨✨✨✨",四次元先生 相识、相知、相爱、相守的父母爱情
 http://txtest-xp2p.p2p.huya.com/src/1524439831-1524439831-6547419218864766976-3049003118-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,心疼得抱住胖胖的自己 神tan狄仁杰·破案还得是他
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="心疼得抱住胖胖的自己 神tan狄仁杰·破案还得是他" tvg-logo="" group-title="✨✨✨✨✨✨",心疼得抱住胖胖的自己 神tan狄仁杰·破案还得是他
 http://txtest-xp2p.p2p.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友" tvg-logo="" group-title="✨✨✨✨✨✨",电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友
 http://txtest-xp2p.p2p.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.xs
-#EXTINF:-1 ,老王夸我帅 神貂侠侣·小笼包版姑姑上线
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="老王夸我帅 神貂侠侣·小笼包版姑姑上线" tvg-logo="" group-title="✨✨✨✨✨✨",老王夸我帅 神貂侠侣·小笼包版姑姑上线
 http://txtest-xp2p.p2p.huya.com/src/1423787869-1423787869-6115122333796532224-2847699194-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,力哥視 恐怖电影找力哥
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="力哥視 恐怖电影找力哥" tvg-logo="" group-title="✨✨✨✨✨✨",力哥視 恐怖电影找力哥
 http://txtest-xp2p.p2p.huya.com/src/1199557791348-1199557791348-5419886936686854144-2399115706152-10057-A-0-1.xs
-#EXTINF:-1 ,老司机 成龍历险记·动画社会我阿福乌鸦坐飞机
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="老司机 成龍历险记·动画社会我阿福乌鸦坐飞机" tvg-logo="" group-title="✨✨✨✨✨✨",老司机 成龍历险记·动画社会我阿福乌鸦坐飞机
 http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
-#EXTINF:-1 ,會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞" tvg-logo="" group-title="✨✨✨✨✨✨",會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞
 http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
-#EXTINF:-1 ,止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受" tvg-logo="" group-title="✨✨✨✨✨✨",止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受
 http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
-#EXTINF:-1 ,非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！" tvg-logo="" group-title="✨✨✨✨✨✨",非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！
 http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.xs
-#EXTINF:-1 ,母胎solo二百年 韦小宝泡妞秘籍·山鸡哥
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="母胎solo二百年 韦小宝泡妞秘籍·山鸡哥" tvg-logo="" group-title="✨✨✨✨✨✨",母胎solo二百年 韦小宝泡妞秘籍·山鸡哥
 http://txtest-xp2p.p2p.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.xs
-#EXTINF:-1 ,昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？" tvg-logo="" group-title="✨✨✨✨✨✨",昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？
 http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
-#EXTINF:-1 ,南西视频 动画路飞带领大家向顶上前进
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="南西视频 动画路飞带领大家向顶上前进" tvg-logo="" group-title="✨✨✨✨✨✨",南西视频 动画路飞带领大家向顶上前进
 http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
-#EXTINF:-1 ,杀马特死神 看小品·春晚经典非看不可
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="杀马特死神 看小品·春晚经典非看不可" tvg-logo="" group-title="✨✨✨✨✨✨",杀马特死神 看小品·春晚经典非看不可
 http://txtest-xp2p.p2p.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.xs
-#EXTINF:-1 ,凌莲 你怎么看待六子哥
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="凌莲 你怎么看待六子哥" tvg-logo="" group-title="✨✨✨✨✨✨",凌莲 你怎么看待六子哥
 http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,铁血真汉子 国产悬疑精选·智商在线
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="铁血真汉子 国产悬疑精选·智商在线" tvg-logo="" group-title="✨✨✨✨✨✨",铁血真汉子 国产悬疑精选·智商在线
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
-#EXTINF:-1 ,No1常在心 搞笑的一家人
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="No1常在心 搞笑的一家人" tvg-logo="" group-title="✨✨✨✨✨✨",No1常在心 搞笑的一家人
 http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
-#EXTINF:-1 ,种瓜得弟弟 夏雪夏雨夏冰雹
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="种瓜得弟弟 夏雪夏雨夏冰雹" tvg-logo="" group-title="✨✨✨✨✨✨",种瓜得弟弟 夏雪夏雨夏冰雹
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
-#EXTINF:-1 ,加班狗 yi馆笑传 oh长地久
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="加班狗 yi馆笑传 oh长地久" tvg-logo="" group-title="✨✨✨✨✨✨",加班狗 yi馆笑传 oh长地久
 http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
-#EXTINF:-1 ,大侠 快来追！yang光的快乐生活
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="大侠 快来追！yang光的快乐生活" tvg-logo="" group-title="✨✨✨✨✨✨",大侠 快来追！yang光的快乐生活
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
-#EXTINF:-1 ,二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨" tvg-logo="" group-title="✨✨✨✨✨✨",二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨
 http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
-#EXTINF:-1 ,成长学院 中国通史-上下五千年
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="成长学院 中国通史-上下五千年" tvg-logo="" group-title="✨✨✨✨✨✨",成长学院 中国通史-上下五千年
 http://txtest-xp2p.p2p.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.xs
-#EXTINF:-1 ,北岛南城 产科共同见证生与si
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="北岛南城 产科共同见证生与si" tvg-logo="" group-title="✨✨✨✨✨✨",北岛南城 产科共同见证生与si
 http://txtest-xp2p.p2p.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.xs
-#EXTINF:-1 ,缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4" tvg-logo="" group-title="✨✨✨✨✨✨",缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4
 http://txtest-xp2p.p2p.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.xs
-#EXTINF:-1 ,西红柿 【欢le颂】22楼姐妹花
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="西红柿 【欢le颂】22楼姐妹花" tvg-logo="" group-title="✨✨✨✨✨✨",西红柿 【欢le颂】22楼姐妹花
 http://txtest-xp2p.p2p.huya.com/src/1524418105-1524418105-6547325906405294080-3048959666-10057-A-0-1.xs
-#EXTINF:-1 ,呆萌小岳岳 一代枭雄为报父仇励精图治
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="呆萌小岳岳 一代枭雄为报父仇励精图治" tvg-logo="" group-title="✨✨✨✨✨✨",呆萌小岳岳 一代枭雄为报父仇励精图治
 http://txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
-#EXTINF:-1 ,小妖孽 在哪儿跌倒的还得在哪儿爬起来
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="小妖孽 在哪儿跌倒的还得在哪儿爬起来" tvg-logo="" group-title="✨✨✨✨✨✨",小妖孽 在哪儿跌倒的还得在哪儿爬起来
 http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
-#EXTINF:-1 ,茱麗葉 葛二蛋成长之路
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="茱麗葉 葛二蛋成长之路" tvg-logo="" group-title="✨✨✨✨✨✨",茱麗葉 葛二蛋成长之路
 http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
-#EXTINF:-1 ,HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事" tvg-logo="" group-title="✨✨✨✨✨✨",HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事
 http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
-#EXTINF:-1 ,阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首" tvg-logo="" group-title="✨✨✨✨✨✨",阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首
 http://txtest-xp2p.p2p.huya.com/src/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.xs
-#EXTINF:-1 ,DD-解说 新七龙珠动画，武林大会
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DD-解说 新七龙珠动画，武林大会" tvg-logo="" group-title="✨✨✨✨✨✨",DD-解说 新七龙珠动画，武林大会
 http://txtest-xp2p.p2p.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.xs
-#EXTINF:-1 ,全优少年 【经典】桃园结义三兄弟
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="全优少年 【经典】桃园结义三兄弟" tvg-logo="" group-title="✨✨✨✨✨✨",全优少年 【经典】桃园结义三兄弟
 http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
-#EXTINF:-1 ,荒野达人 芈月和她的三个爱人
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="荒野达人 芈月和她的三个爱人" tvg-logo="" group-title="✨✨✨✨✨✨",荒野达人 芈月和她的三个爱人
 http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
-#EXTINF:-1 ,大鱼爱路飞 动画7四战快看系列【21-24】
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="大鱼爱路飞 动画7四战快看系列【21-24】" tvg-logo="" group-title="✨✨✨✨✨✨",大鱼爱路飞 动画7四战快看系列【21-24】
 http://txtest-xp2p.p2p.huya.com/src/1199590495159-1199590495159-5560348735386419200-2399181113774-10057-A-0-1.xs
-#EXTINF:-1 ,扫地僧 中国百年老字号百草厅
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="扫地僧 中国百年老字号百草厅" tvg-logo="" group-title="✨✨✨✨✨✨",扫地僧 中国百年老字号百草厅
 http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.xs
-#EXTINF:-1 ,糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门" tvg-logo="" group-title="✨✨✨✨✨✨",糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门
 http://txtest-xp2p.p2p.huya.com/src/2391983955-2391983955-10273492859281735680-4784091366-10057-A-0-1.xs
-#EXTINF:-1 ,喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！" tvg-logo="" group-title="✨✨✨✨✨✨",喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！
 http://txtest-xp2p.p2p.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.xs
-#EXTINF:-1 ,良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地" tvg-logo="" group-title="✨✨✨✨✨✨",良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地
 http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
-#EXTINF:-1 ,蓶1淳爷 【黑帮大片】山鸡哥重现江湖
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="蓶1淳爷 【黑帮大片】山鸡哥重现江湖" tvg-logo="" group-title="✨✨✨✨✨✨",蓶1淳爷 【黑帮大片】山鸡哥重现江湖
 http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎" tvg-logo="" group-title="✨✨✨✨✨✨",楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎
 http://txtest-xp2p.p2p.huya.com/src/2322561713-2322561713-9975326600276738048-4645246882-10057-A-0-1.xs
-#EXTINF:-1 ,学妹爱学长 【警匪】不会当卧底的警察不是好卧底
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="学妹爱学长 【警匪】不会当卧底的警察不是好卧底" tvg-logo="" group-title="✨✨✨✨✨✨",学妹爱学长 【警匪】不会当卧底的警察不是好卧底
 http://txtest-xp2p.p2p.huya.com/src/1423782050-1423782050-6115097341381836800-2847687556-10057-A-0-1-imgplus.xs
-#EXTINF:-1 ,Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年" tvg-logo="" group-title="✨✨✨✨✨✨",Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年
 http://txtest-xp2p.p2p.huya.com/src/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.xs
