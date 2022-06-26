@@ -4,6 +4,12 @@
   "spider": "https://breadmyth.github.io/tv/jar/wq666.jar",
 
 
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+// base64(http://breadmyth.github.io/tv/live/huya.txt) = aHR0cDovL2JyZWFkbXl0aC5naXRodWIuaW8vdHYvbGl2ZS9odXlhLnR4dA==
+"proxy://do=live&type=txt&ext=aHR0cDovL2JyZWFkbXl0aC5naXRodWIuaW8vdHYvbGl2ZS9odXlhLnR4dA=="
+]}]}],
+
+
 "sites": [
 
  
@@ -109,12 +115,6 @@
 {"key":"php_开麦K歌搜人","name":"开麦K歌搜人(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkg.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"php_开麦K歌搜歌","name":"开麦K歌搜歌(vlc)","type":1,"api":"http://jb001.eu5.org/tmp/t/u/kmkgct.php","searchable":1,"quicksearch":1,"filterable":0}
 ],
-
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-// base64(http://breadmyth.github.io/tv/live/huya.txt) = aHR0cDovL2JyZWFkbXl0aC5naXRodWIuaW8vdHYvbGl2ZS9odXlhLnR4dA==
-"proxy://do=live&type=txt&ext=aHR0cDovL2JyZWFkbXl0aC5naXRodWIuaW8vdHYvbGl2ZS9odXlhLnR4dA=="
-]}]}],
 
 
 "parses": [
