@@ -111,19 +111,10 @@
 ],
 
 
-"lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS5tM3U="
-          ]
-        }
-      ]
-    }
-  ],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+// base64(https://breadmyth.github.io/tv/live/huya.txt) = aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS50eHQ=
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS50eHQ="
+]}]}],
 
 
 "parses": [
