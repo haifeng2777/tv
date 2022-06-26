@@ -112,8 +112,8 @@
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-// base64(https://breadmyth.github.io/tv/live/huya.m3u8) = aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS5tM3U4
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS5tM3U4"
+// base64(https://breadmyth.github.io/tv/live/huya.m3u) = aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS5tM3U=
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9icmVhZG15dGguZ2l0aHViLmlvL3R2L2xpdmUvaHV5YS5tM3U="
 ]}]}],
 
 
