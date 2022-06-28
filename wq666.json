@@ -13,15 +13,14 @@
 "sites": [
 
  
+{"key": "csp_360","name": "😇360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_CZSPP","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "csp_360","name": "😇360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_快看","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_在线之家","name": "🌱在线之家(SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_1990电影","name": "🔶1990电影(SP)","type": 3,"api": "csp_DY1990","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "spider_Mjxq","name": "🌏美剧星球(SP)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_两个BT","name": "🐞两个BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_真不卡","name": "🐞真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_奇粹影视","name": "🐞奇粹影视(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
@@ -37,6 +36,7 @@
 //{"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 
+{"key":"csp_xpath_片库","name":"片库(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/片库(xp).json"},
 {"key":"csp_xpath_厂长资源","name":"厂长资源(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/厂长资源(xp).json"},
 {"key":"csp_xpath_钉子电影","name":"钉子电影(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/钉子电影(xp).json"},
 
@@ -52,6 +52,7 @@
 {"key":"csp_xpath_极品影视","name":"极品影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/极品影视(xpmf).json"},
 {"key":"csp_xpath_火火影视","name":"火火影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/火火影视(xpmf).json"},
 {"key":"csp_xpath_完美看看","name":"完美看看(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/完美看看(xpmf).json"},
+{"key":"csp_xpath_奈飞中文","name":"奈飞中文(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/奈飞中文(xpmf).json"},
 
 
 {"key":"csp_biubiu_剧白白","name":"剧白白(xb)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXB/剧白白(xb).json"},
@@ -89,7 +90,7 @@
   
 {"key":"csp_php_完美看看","name":"完美看看(php)","type":1,"api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
-  
+{"key":"csp_qiepian_ASMR","name":"ASMR(qp)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_qiepian_艾思影院","name":"艾思影院(qp)","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_qiepian_看猫影视","name":"看猫影视(qp)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 
