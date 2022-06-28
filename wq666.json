@@ -87,8 +87,6 @@
 {"key":"csp_appysv2_刺猬影视","name":"刺猬影视(ysv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 {"key":"csp_appysv2_乐云影视","name":"乐云影视(ysv2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.leyun.tv/api.php/v1.vod"},
 
-  
-{"key":"csp_php_完美看看","name":"完美看看(php)","type":1,"api": "http://api.flypotato.xyz/wmkk.php","searchable": 1,"quickSearch": 1,"filterable": 0},
 
 {"key":"csp_qiepian_ASMR","name":"ASMR(qp)","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"csp_qiepian_艾思影院","name":"艾思影院(qp)","type":1,"api":"https://www.aitee.cc/api.php/provide/vod/","playUrl":"https://jx.zjmiao.com/?url=","searchable":1,"quickSearch":1},
