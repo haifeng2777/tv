@@ -49,7 +49,7 @@
 {"key":"csp_xpath_六度TV","name":"六度TV(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/六度tv(xpmf).json"},
 {"key":"csp_xpath_在线之家","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/在线之家(xpmf).json"},
 {"key":"csp_xpath_哔嘀影视","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视(xpmf).json"},
-{"key":"csp_xpath_哔嘀影视2","name":"哔嘀影视2(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视(xpmf)2.json"},
+{"key":"csp_xpath_哔嘀影视2","name":"哔嘀影视2(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视2(xpmf).json"},
 {"key":"csp_xpath_极品影视","name":"极品影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/极品影视(xpmf).json"},
 {"key":"csp_xpath_火火影视","name":"火火影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/火火影视(xpmf).json"},
 {"key":"csp_xpath_完美看看","name":"完美看看(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/完美看看(xpmf).json"},
