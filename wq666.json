@@ -13,6 +13,7 @@
 "sites": [
 
 
+{"key": "push_agent","name": "🛎推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_CZSPP","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -24,16 +25,17 @@
 {"key": "csp_两个BT","name": "🐞两个BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_真不卡","name": "🐞真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_奇粹影视","name": "🐞奇粹影视(SP)","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-{"key": "csp_Auete","name": "🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_BBB哔哩","name": "🅱哔哩套餐(SP)","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "csp_小纸条","name": "🐾小纸条","type": 3,"api": "csp_GitCafe","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPanSou","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "push_agent","name": "推送","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0},
 
+
+//{"key": "csp_Auete","name": "🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_泥巴影视","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
+//{"key":"csp_xpath_哔嘀影视2","name":"哔嘀影视2(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视2(xpmf).json"},
 
 
 {"key":"csp_xpath_片库","name":"片库(xp)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/片库(xp).json"},
@@ -49,7 +51,6 @@
 {"key":"csp_xpath_六度TV","name":"六度TV(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/六度tv(xpmf).json"},
 {"key":"csp_xpath_在线之家","name":"在线之家(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/在线之家(xpmf).json"},
 {"key":"csp_xpath_哔嘀影视","name":"哔嘀影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视(xpmf).json"},
-{"key":"csp_xpath_哔嘀影视2","name":"哔嘀影视2(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视2(xpmf).json"},
 {"key":"csp_xpath_极品影视","name":"极品影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://breadmyth.github.io/tv/MeowXP/极品影视(xpmf).json"},
 {"key":"csp_xpath_火火影视","name":"火火影视(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/火火影视(xpmf).json"},
 {"key":"csp_xpath_完美看看","name":"完美看看(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/完美看看(xpmf).json"},
