@@ -16,6 +16,7 @@
 {"key": "csp_七七","name": "🍞七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_DiDuan","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_CZSPP","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_美剧星球","name": "🌏美剧星球(SP)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_快看","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_360官源","name": "😇360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -30,7 +31,6 @@
 
 
 //{"key": "csp_Auete","name": "🐞Auete(SP)","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-//{"key": "csp_小苹果","name": "🍎小苹果(SP)","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_泥巴影视","name": "泥巴(需梯子)","type": 3,"api": "csp_Nbys","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "push_agent","name": "推送(阿里)","type": 3,"api": "csp_Ali","searchable": 0,"quickSearch": 0,"filterable": 0},
 //{"key":"csp_xpath_哔嘀影视2","name":"哔嘀影视2(xpmf)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/哔嘀影视2(xpmf).json"},
