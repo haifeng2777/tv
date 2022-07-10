@@ -18,7 +18,7 @@
 {"key": "csp_厂长","name": "🐖厂长(SP)","type": 3,"api": "csp_CZSPP","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_美剧星球","name": "🌏美剧星球(SP)","type": 3,"api": "csp_Mjxq","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_快看","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_360官源","name": "😇360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_360官源","name": "🟢360官源(SP)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Cokemv","name": "🎬Cokemv(SP)","type": 3,"api": "csp_Cokemv","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "csp_2BT","name": "🐞2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_BBB哔哩","name": "🅱哔哩套餐(SP)","type": 3,"api": "csp_BBB","searchable": 1,"quickSearch": 1,"filterable": 1},
