@@ -1,6 +1,5 @@
 {
-    //"spider":"https://gitcode.net/breadmyth1/tv/-/raw/main/jar/Alist.jpg;md5;285D80F6E19E2613EA305083F84BD95A",
-    "spider":"https://gitcode.net/breadmyth1/tv/-/raw/main/jar/local-0909.jpg;md5;7B65FF61E7B6887F975D9D83909361D5",
+    "spider":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/0928.jar;md5;FF0EA5727D7F5BAFB443A2F87EBF7724",
     "lives":[
         {
             "group":"redirect",
