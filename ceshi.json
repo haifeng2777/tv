@@ -1,6 +1,6 @@
 {
 
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/0928.jar;md5;FF0EA5727D7F5BAFB443A2F87EBF7724",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/1008.jar;md5;6D99C46DE900F7B85BBFA8CED2D780B0",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYnJlYWRteXRoL3R2L21haW4vbGl2ZS9odXlhLnR4dA=="
