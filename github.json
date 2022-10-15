@@ -66,7 +66,7 @@
 {"key":"csp_xb_webdillo","name":"宝仙HD(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
 {"key":"csp_xb_ysgc","name":"影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
 {"key":"csp_xb_cokemv","name":"cokemv(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_XBiu_REPEN","name":"RENPE(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
+{"key":"csp_xb_REPEN","name":"RENPE(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 {"key":"csp_xb_爱看影视","name":"爱看影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
 
 
