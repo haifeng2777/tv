@@ -1,6 +1,6 @@
 {
 
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/1008.jar;md5;6D99C46DE900F7B85BBFA8CED2D780B0",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97_1.jar;md5;BE69D0C9E96E8637BA98436236C82BF6",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYnJlYWRteXRoL3R2L21haW4vbGl2ZS9odXlhLnR4dA=="
@@ -20,7 +20,7 @@
 "sites": [
 
 
-{"key": "push_agent","name": "🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"7594e9e43c1b45ccb76c50de603f1de7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488"},
+{"key": "push_agent","name": "🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
 {"key": "csp_乐猪","name": "🐷乐猪(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Lib","name": "🎉Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_兔兔影院","name": "🐰兔兔影院(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -29,7 +29,7 @@
 {"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_看视界","name":"🦅看视界(SP)","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_七七","name": "👒七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"7594e9e43c1b45ccb76c50de603f1de7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488"},
+{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35;desc"},
 {"key": "csp_B站","name": "🅱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/csp_Bili.json"},
 {"key": "csp_小初高课堂","name": "📚小初高课堂(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/哔哩小初高课堂(XP).json"},
 {"key": "csp_计算机编程","name": "📚计算机编程(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/哔哩计算机编程(XP).json"},
@@ -37,9 +37,9 @@
 {"key": "csp_快看","name": "👀快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_2BT","name": "🐞2BT(SP)","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_日漫","name": "🐞日漫(SP)","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_找资源","name": "👓找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"7594e9e43c1b45ccb76c50de603f1de7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488"},
-{"key": "csp_易盘搜","name": "🔍️易盘搜(仅搜索)","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"ext": "7594e9e43c1b45ccb76c50de603f1de7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488"},
-{"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"7594e9e43c1b45ccb76c50de603f1de7","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488"},
+{"key": "csp_找资源","name": "👓找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
+{"key": "csp_易盘搜","name": "🔍️易盘搜(仅搜索)","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
+{"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
 {"key": "csp_Alist2","name":"🗂Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/alist-json.jar"},
 {"key": "t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7594e9e43c1b45ccb76c50de603f1de7&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 
@@ -56,17 +56,17 @@
 
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"http://home.jundie.top:666/JS/dr_py/libs/drpy.js","ext":"http://home.jundie.top:666/JS/dr_py/js/360影视.js"},
-{"key":"csp_xb_lib","name":"LIB(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":" https://www.libvio.me/type/{cateId}-{catePg}.html"},
-{"key":"csp_xb_lgyy","name":"蓝光影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_jpys","name":"极品影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_zbk","name":"真不卡(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_lez2","name":"乐猪(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"http://www.lezhutv.com/type/{cateId}-{datePg}.html"},
-{"key":"csp_xb_5G","name":"5G(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
-{"key":"csp_xb_9sha","name":"9杀(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_webdillo","name":"宝仙HD(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
-{"key":"csp_xb_ysgc","name":"影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
-{"key":"csp_xb_cokemv","name":"cokemv(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
-{"key":"csp_xb_REPEN","name":"RENPE(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97.jar;md5;7299C83C6EE488B6051041D3F9A30488","ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
+{"key":"csp_xb_lib","name":"LIB(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":" https://www.libvio.me/type/{cateId}-{catePg}.html"},
+{"key":"csp_xb_lgyy","name":"蓝光影院(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://lgyy.tv/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_jpys","name":"极品影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.jpys.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_zbk","name":"真不卡(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.zbkk.net/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_lez2","name":"乐猪(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://www.lezhutv.com/type/{cateId}-{datePg}.html"},
+{"key":"csp_xb_5G","name":"5G(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.91dyy.tv/te/{cateId}-{catePg}.html"},
+{"key":"csp_xb_9sha","name":"9杀(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.9sha.com/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_webdillo","name":"宝仙HD(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://webdillo.com/index.php/vod/show/id/{cateId}/page/{catePg}.html"},
+{"key":"csp_xb_ysgc","name":"影视工厂(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
+{"key":"csp_xb_cokemv","name":"cokemv(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cokemv.me/vodshow/{cateId}--------{catePg}---.html"},
+{"key":"csp_xb_REPEN","name":"RENPE(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mac.rp123.top/vodshow/{cateId}--------{catePg}---/"},
 {"key":"csp_xb_爱看影视","name":"爱看影视(R)","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ikan6.vip/vodshow/{cateId}--------{catePg}---/"},
 
 
