@@ -49,7 +49,7 @@
 {"key": "t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7594e9e43c1b45ccb76c50de603f1de7&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 
 
-//{"key": "csp_B站","name": "🅱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/csp_Bili.json"},
+//{"key": "csp_B站","name": "🅱B站(SP)","type": 3,"api": "csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/csp_Bili.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/pz_1022.jar;md5;0DE800421C4AE17DB9760784B1B566A9"},
 //{"key": "csp_找资源","name": "👓找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json"},
 //{"key": "csp_易盘搜","name": "🔍️易盘搜(仅搜索)","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json"},
 //{"key": "csp_Alist1","name":"🍞bread Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://breadmyth.asuscomm.com:22222"},
