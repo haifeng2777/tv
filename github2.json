@@ -28,7 +28,7 @@
 "sites": [
 
 
-{"key": "push_agent","name": "🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json"},
+{"key": "push_agent","name": "🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00"},
 //{"key": "csp_乐猪","name": "🐷乐猪(SP)","type": 3,"api": "csp_Lezhu","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_Lib","name": "🎉Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_兔兔影院","name": "🐰兔兔影院(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -37,7 +37,7 @@
 //{"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "csp_看视界","name":"🦅看视界(SP)","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"key": "csp_七七","name": "👒七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"dceebae47a1a4b0f887a632f27e81c35"},
+{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00;desc"},
 //{"key": "csp_小初高课堂","name": "📚小初高课堂(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/哔哩小初高课堂(XP).json"},
 //{"key": "csp_计算机编程","name": "📚计算机编程(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/哔哩计算机编程(XP).json"},
 //{"key": "360_spider","name":"💘360影视","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
