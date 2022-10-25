@@ -27,10 +27,6 @@
     {"host":"*", "rule":["m4a"]}
 ],
 
-//📺base64(https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/live/huya.txt) = aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYnJlYWRteXRoL3R2L21haW4vbGl2ZS9odXlhLnR4dA==
-//https://dxawi.github.io/0/0.json
-//"drives": [{"server":"http://192.168.7.1:22222/dav","userName":"bread","password":"2","type":"webdav"}],
-
 "sites": [
 
 
@@ -43,7 +39,7 @@
 {"key": "csp_低端","name": "😲低端影视(SP)","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_看视界","name":"🦅看视界(SP)","type":3,"api":"csp_KanSJ","filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_七七","name": "👒七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00"},
+{"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00;desc","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97_1.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
 {"key": "csp_B站","name": "🅱B站(SP)","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/csp_Bili.json"},
 {"key": "csp_小初高课堂","name": "📚小初高课堂(B站)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/哔哩小初高课堂(XP).json"},
 {"key": "csp_计算机编程","name": "📚计算机编程(B站)","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/哔哩计算机编程(XP).json"},
@@ -54,19 +50,6 @@
 {"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97_1.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
 {"key": "csp_Alist2","name":"🗂Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/Alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/alist-json.jar"},
 {"key": "t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7594e9e43c1b45ccb76c50de603f1de7&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
-
-
-//{"key": "csp_找资源","name": "👓找资源(仅搜索)","type": 3,"api": "csp_Zhaozy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97_1.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
-//{"key": "csp_易盘搜","name": "🔍️易盘搜(仅搜索)","type": 3,"api": "csp_Yisou","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97_1.jar;md5;BE69D0C9E96E8637BA98436236C82BF6"},
-//{"key": "csp_Alist1","name":"🍞bread Alist(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://breadmyth.asuscomm.com:22222"},
-//{"key": "csp_Alist_collect","name":"👫Alist合集(SP)","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"🔮嗨翻$https://pan.hikerfans.com#🦀9T$https://drive.9t.ee#🐱梓澪の妙妙屋$https://xn--i0v44m.xyz#🚆资源小站$https://pan.142856.xyz#🌤晴园的宝藏库$https://alist.52qy.repl.co#🐭米奇妙妙屋$https://anime.mqmmw.ga#💂小兵组网盘影视$https://6vv.app#📀小光盘$https://alist.xiaoguanxiaocheng.life#🐋一只鱼$https://alist.youte.ml#🌊七米蓝$https://al.chirmyram.com#🌴非盘$http://www.feifwp.top#🤠帅盘$https://hi.shuaipeng.wang#🐉神族九帝$https://alist.shenzjd.com#☃姬路白雪の资源小站$https://pan.jlbx.xyz#🎧听闻网盘$https://wangpan.sangxuesheng.com#🌺菊花盘$https://pan.142856.xyz"},
-
-
-//{"key": "csp_幼儿乐园","name": "📚幼儿乐园(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/幼儿乐园(XP).json"},
-//{"key": "csp_少儿教育","name": "📚少儿教育(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/少儿教育(XP).json"},
-//{"key": "csp_小学课堂","name": "📚小学课堂(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/小学课堂(XP).json"},
-//{"key": "csp_初中课堂","name": "📚初中课堂(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/初中课堂(XP).json"},
-//{"key": "csp_高中教育","name": "📚高中课堂(B站)","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXP/高中课堂(XP).json"},
 
 
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"http://home.jundie.top:666/JS/dr_py/libs/drpy.js","ext":"http://home.jundie.top:666/JS/dr_py/js/360影视.js"},
@@ -116,8 +99,8 @@
 {"key":"csp_QXBiu_蚂蚁4K","name":"蚂蚁4K(QXB)️","type":3,"api":"csp_QXBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowQXB/蚂蚁4K(QXB).json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/QXB.jar;md5;834FF6AF57D036546C75F64AADCDB5FF"},
 
 
-{"key":"csp_biubiu_VOFLIX","name":"VOFLIX(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXB/VOFLIX(XB).json"},
 {"key":"csp_biubiu_Libvio","name":"Libvio(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXB/Libvio(XB).json"},
+{"key":"csp_biubiu_VOFLIX","name":"VOFLIX(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXB/VOFLIX(XB).json"},
 {"key":"csp_biubiu_茶杯狐","name": "茶杯狐(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXB/茶杯狐(XB).json"},
 {"key":"csp_biubiu_剧白白","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXB/剧白白(XB).json"},
 {"key":"csp_biubiu_乐猪影视","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/MeowXB/乐猪影视(XB).json"},
