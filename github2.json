@@ -2,9 +2,7 @@
 
 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/top97_1.jar;md5;BE69D0C9E96E8637BA98436236C82BF6",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYnJlYWRteXRoL3R2L21haW4vbGl2ZS9odXlhLnR4dA=="
-]}]}],
+"lives": [{"name": "直播","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/live/huya.txt"}],
 
 "rules": [
     {"host": "dyxs20.com","rule": [".m3u8"]},
@@ -27,9 +25,6 @@
     {"host":"*", "rule":["m4a"]}
 ],
 
-//📺base64(https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/live/huya.txt) = aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vYnJlYWRteXRoL3R2L21haW4vbGl2ZS9odXlhLnR4dA==
-//https://dxawi.github.io/0/0.json
-//"drives": [{"server":"http://192.168.7.1:22222/dav","userName":"bread","password":"2","type":"webdav"}],
 
 "sites": [
 
