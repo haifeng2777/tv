@@ -2,7 +2,10 @@
 
 "spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/pz_1022.jar;md5;0DE800421C4AE17DB9760784B1B566A9",
 
-"lives": [{"name": "直播","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/live/huya.txt"}],
+"lives": [
+{"name": "直播","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/live/huya.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}],"epg": "http://epg.51zmt.top:8000/api/diyp/"}
+],
 
 "rules": [
     {"host": "dyxs20.com","rule": [".m3u8"]},
