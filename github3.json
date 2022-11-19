@@ -1,6 +1,6 @@
 {
 
-"spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/tangsan_1116.jar;md5;daa5ea1a60b4a1597787cf7ede1abb38",
+"spider": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/jar/tangsan_1116.jar;md5;DAA5EA1A60B4A1597787CF7EDE1ABB38",
 
 "lives": [
 {"name": "直播","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/live/huya.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
