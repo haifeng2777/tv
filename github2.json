@@ -33,7 +33,7 @@
 
 
 {"key": "push_agent","name": "🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00"},
-{"key": "drpy_js_ddys","name": "低端影视(DRPY)","type": 3,"api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js","ext": "http://home.jundie.top:666/JS/dr_py/js/ddys.js"},
+{"key": "drpy_js_ddys","name": "😲低端影视(DRPY)","type": 3,"api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js","ext": "http://home.jundie.top:666/JS/dr_py/js/ddys.js"},
 {"key": "csp_小纸条","name": "🐾小纸条(SP)","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"b957e87b76f3421ab359f201ab378a00;desc"},
 {"key": "csp_阿里盘搜","name": "🦊喵狸盘搜(仅搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"playerType": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json"},
 {"key": "t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7594e9e43c1b45ccb76c50de603f1de7&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
