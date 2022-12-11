@@ -31,7 +31,7 @@
 "sites": [
 
 
-{"key":"push_agent","name":"🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
+{"key":"push_agent","name":"🛎🍿🍦😝","type": 3,"api": "csp_PushAgent","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 {"key":"AppTT","name":"🐰兔兔影院(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 {"key":"Kuaikan","name":"👀快看(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"459b1cb892e317546676a2c9dcec2bff"},
@@ -40,7 +40,7 @@
 {"key":"Lib","name":"🎉Libvio(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
 {"key":"Ddys","name":"😲低端影视(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"key":"SP360","name":"🌏SP360","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"9248c57eb22ace4a3431fbd1a979465f"},
-{"key":"Gitcafe","name":"🐾小纸条(SP)","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
+{"key":"Gitcafe","name":"🐾小纸条(SP)","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 {"key":"Bili","name":"🅱B站(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_Bili.json"},
 {"key":"AList","name":"👫AList(SP)","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/Alist.json"},
 {"key":"Zjdr","name":"🐞追剧达人(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"778e8966ec0e9c0ae0b4682ad3550f40"},
@@ -59,10 +59,10 @@
 {"key":"Xiaoh","name":"🐞Xiaoh(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
 {"key":"Zxzj","name":"🐞在线之家(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"23a412dda32885ae2bcb97b956cd7ad4"},
 {"key":"Tbook","name":"🐞听书网(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"d16d1517e9eaad9909cb35c55ba0b784"},
-{"key":"Zhaozy","name":"👓找资源(仅搜索)","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
-{"key":"YiSo","name":"🔍️易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
-{"key":"Upso","name":"🔍️云搜(仅搜索)","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
-{"key":"AliPS","name":"🦊喵狸盘搜(仅搜索)","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://zdir.kebedd69.repl.co/public/TVBox/token.json"},
+{"key":"Zhaozy","name":"👓找资源(仅搜索)","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"YiSo","name":"🔍️易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"Upso","name":"🔍️云搜(仅搜索)","type":"3","api":"csp_Upso","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
+{"key":"AliPS","name":"🦊喵狸盘搜(仅搜索)","type":"3","api":"csp_AliPS","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/Pandora2277/box/main/token.txt"},
 
 {"key": "t4_聚合","name":"📡聚合(T4)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7594e9e43c1b45ccb76c50de603f1de7&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 
