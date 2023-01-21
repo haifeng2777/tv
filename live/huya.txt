@@ -30,11 +30,11 @@
 misakaF,http://live.misakaf.org/hls/stream.m3u8
 
 少儿,#genre#
-CCTV4K-HLG-50P满血CCTV4K豆豆源,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
-CCTV4K-HLG-25P帧率阉割版CCTV4K-YSP投屏版源,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
-CCTV4K-HLG-50P码率阉割版CCTV4K小果源,http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
-CCTV4K-SDR-25P帧率高动态范围阉割版CCTV4K-CQYX源,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
-CCTV4K-SDR-25P帧率高动态范围阉割版CCTV4K-Bestv源,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
+CCTV4K50P满血,http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
+CCTV4K25P帧率YSP投屏版源,http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
+CCTV4K50P码率小果源,http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
+CCTV4K25P帧率CQYX源,http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
+CCTV4K25P帧率Bestv源,http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 哈哈炫动,http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
