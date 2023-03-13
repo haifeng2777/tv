@@ -1,3 +1,8 @@
+//以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
+//{"key":"csp_Anime1","name":"🐞日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_Yj1211","name":"🐞网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_zxzj","name":"🐞在线之家(SP)","type":"3","api":"csp_Zxzj","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.zxzj.org"},
+//{"key":"csp_zxzjH3","name":"🐞在线H3(SP)","type":3,"api":"csp_ZxzjH3","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 
 
 
@@ -50,14 +55,11 @@
 {"key":"csp_Dm84","name":"🐞动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"🐞樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🐞异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Anime1","name":"🐞日本动漫(SP)","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Yj1211","name":"🐞网红直播(SP)","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"Upso","name":"🔍️云搜(仅搜索)","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","changeable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"Zhaozy","name":"👓找资源(仅搜索)","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","changeable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt$$$yingshi$$$abcd1234"},
 {"key":"YiSo","name":"🔍️易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"AliPS","name":"🦊喵狸盘搜(仅搜索)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
-{"key":"csp_zxzj","name":"🐞在线之家(SP)","type":"3","api":"csp_Zxzj","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.zxzj.org"},
-{"key":"csp_zxzjH3","name":"🐞在线H3(SP)","type":3,"api":"csp_ZxzjH3","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com"},
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://jihulab.com/breadmyth/tv/-/raw/main/js/drpy.min.js","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/js/兔小贝.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_If101","name":"🛫 If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
