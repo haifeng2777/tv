@@ -32,7 +32,7 @@
 {"key":"csp_Vofl","name":"🎈Voflix(SP)","type":3,"api":"csp_Voflix","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xinsj","name":"🐼新视觉(SP)","type":3,"api":"csp_Xinsj","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_Paper","name":"🐾小纸条(SP)","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","changeable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
-{"key":"Bili","name":"🅱B站(SP)","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_Bili.json"},
+{"key":"Bili","name":"🅱B站(SP)","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_Bili.json"},
 {"key":"AList","name":"👫AList(SP)","type": "3","api":"csp_AList","searchable":"1","ext": "https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/Alist.json"},
 {"key":"csp_YQKAPP","name":"🐞一起看(SP)","type":"3","api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_Lgyy","name":"🐞蓝光(SP)","type":"3","api":"csp_Lgyy","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.lgyy.tv"},
