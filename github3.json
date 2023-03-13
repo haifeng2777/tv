@@ -69,9 +69,6 @@
 {"key":"drpy_js_360影视","name":"360影视[DRPY]","type":3,"api":"http://home.jundie.top:666/JS/dr_py/libs/drpy.js","ext":"http://home.jundie.top:666/JS/dr_py/js/360影视.js"},
 
 
-{"key":"csp_XBPQ_爱看","name":"️爱看(xBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowxBPQ/爱看.json"},
-
-
 {"key":"csp_XYQHiker_皮皮鸭","name":"皮皮鸭(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXYQH/皮皮鸭.json"},
 {"key":"csp_XYQHiker_野马","name":"野马影视(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXYQH/野马.json"},
 
@@ -79,17 +76,13 @@
 {"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://jihulab.com/breadmyth/tv/-/raw/main/js/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/js/88看球.js"},
 {"key":"csp_xp_qiumi","name":"⚽ Jrs┃球迷","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXP/dj看球.json"},
 {"key":"csp_XYQBiu_310直播","name":"⚽310┃看球","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXYQB/310直播.json"},
-{"key":"csp_XPath_企鹅体育","name":"🐧企鹅┃体育","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXP/企鹅直播.json"},
-{"key":"csp_XYQBiu_酷奇","name":"🎤酷奇┃MV","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXYQB/酷奇MV.json"},
-{"key":"csp_XYQHiker_虎牙直播","name":"🐯虎牙┃直播","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/XYQHiker/虎牙直播.json"},
-{"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃直播","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXYQB/斗鱼直播.json"},
 {"key":"csp_XYQHiker_有声小说吧","name":"🎧有声小说","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/MeowXYQH/有声小说(XYQH).json"}
 ],
 
 
 "parses": [
-{"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"Web聚合","type":3,"url":"Web"},
+{"name":"Json聚合","type":3,"url":"Demo"},
 {"name":"全部","type":1,"url":"http://www.pandown.pro/app/tkys/tkysjx.php?url="},
 {"name":"来","type":1,"url":"https://json.xn--9kq078cdn3a.cc/api/?key=9ksb8DzGi6xUtNf1Cm&url="},
 {"name":"自","type":1,"url":"https://jx.ccabc.cc/byg/?url="},
