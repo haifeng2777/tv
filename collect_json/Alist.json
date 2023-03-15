@@ -1,22 +1,88 @@
 {
-  "🍞bread":"http://breadmyth.asuscomm.com:22222",
-  "💽杜比": "https://dubi.tk",
-  "🐱梓澪の妙妙屋": "https://zi0.cc",
-  "🌤晴园的宝藏库":"https://alist.52qy.repl.co",
-  "🐭米奇妙妙屋":"https://anime.mqmmw.ga",
-  "💂小兵组网盘影视":"https://6vv.app",
-  "🦀9T(Adult)":"https://drive.9t.ee",
-  "🌊七米蓝":"https://al.chirmyram.com", 
-  "🤠帅盘":"https://hi.shuaipeng.wang",
-  "🐉神族九帝":"https://alist.shenzjd.com",
-  "☃姬路白雪":"https://pan.jlbx.xyz",
-  "🎧听闻网盘":"https://wangpan.sangxuesheng.com",
-  "💾DISK":"http://124.222.140.243:8080",
-  "☁云播放":"https://quanzi.laoxianghuijia.cn",
-  "✨星梦":"https://pan.bashroot.top",
-  "💫触光":"https://pan.ichuguang.com",
-  "🕵好汉吧":"https://8023.haohanba.cn",
-  "🎡资源小站":"https://960303.xyz/",
-  "🌺菊花盘":"https://pan.142856.xyz",
-  "🌧秋雨": "https://share.laowang.me"
+  "drives": [
+    {
+      "name": "🍞bread",
+      "server": "http://breadmyth.asuscomm.com:22222"
+    },
+    {
+      "name": "💫触光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "🐟一只魚",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "🌊七米蓝",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "🐭米奇妙妙屋",
+      "server": "https://anime.mqmmw.ga"
+    },
+    {
+      "name": "🐉神族九帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "💽杜比",
+      "server": "https://dubi.tk"
+    },
+	{
+      "name": "🌤晴园的宝藏库",
+      "server": "https://alist.52qy.repl.co"
+    },
+    {
+      "name": "💂小兵组网盘影视",
+      "server": "https://6vv.app"
+    },
+    {
+      "name": "🤠帅盘",
+      "server": "https://hi.shuaipeng.wang"
+    },
+    {
+      "name": "☃姬路白雪",
+      "server": "https://pan.jlbx.xyz"
+    },
+    {
+      "name": "🎧听闻网盘",
+      "server": "https://wangpan.sangxuesheng.com"
+    },
+    {
+      "name": "💾DISK",
+      "server": "http://124.222.140.243:8080"
+    },
+    {
+      "name": "☁云播放",
+      "server": "https://quanzi.laoxianghuijia.cn"
+    },
+    {
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "🕵好汉吧",
+      "server": "https://8023.haohanba.cn"
+    },
+    {
+      "name": "🎡资源小站",
+      "server": "https://960303.xyz/"
+    },
+    {
+      "name": "🌺菊花盘",
+      "server": "https://pan.142856.xyz"
+    },
+    {
+      "name": "🌧秋雨",
+      "server": "https://share.laowang.me"
+    },
+    {
+      "name": "🦀9T(Adult",
+      "server": "https://drive.9t.ee"
+    },
+    {
+      "name": "Testing purpose",
+      "server": "https://alist.you-mostmost.repl.co"
+    }
+  ]
 }
