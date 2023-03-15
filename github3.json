@@ -13,12 +13,12 @@
 
 
 "lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://jihulab.com/breadmyth/tv/-/raw/main/live/huya.txt",
+            "name": "live",
+            "type": 0,
+            "url": "https://jihulab.com/breadmyth/tv/-/raw/main/live/huya.txt",
             "playerType":1,
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
             },
             {
             "name":"Json",
