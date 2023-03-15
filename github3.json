@@ -73,6 +73,7 @@
 {"key":"AliPS","name":"🦊喵狸盘搜(仅搜索)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"csp_Nmys","name":"🌾农民影视┃直连","type":3,"api":"csp_Nmys","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Nmys/nmys.json"},
 {"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Hlsp/黑料.json"},
+{"key":"直播","name":"🅿电视┃直播","type":4,"playerType":1,"api":"http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_If101","name":"🛫If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街┃飞","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
