@@ -6,7 +6,6 @@
 //{"key":"AList","name":"👫AList(SP)","type": "3","api":"csp_AList","searchable":"1","ext": "https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/Alist.json"},
 
 
-
 {
 
 "spider": "https://jihulab.com/breadmyth/tv/-/raw/main/jar/0315fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
@@ -33,7 +32,7 @@
 "sites": [
 
 
-{"key":"push_agent","name":"🛎🍿🍦😝","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
+{"key":"js豆瓣","name":"🛎🍿🍦😝","type":3,"api":"https://jihulab.com/breadmyth/tv/-/raw/main/js/drpy.min.js","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/js/drpy.js","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_DiDuan","name":"😲低端影视(SP)","type":"3","api":"csp_Ddrk","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_AppTT","name":"🐰兔兔影院(SP)","type":"3","api":"csp_AppTT","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
 {"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},
@@ -66,11 +65,11 @@
 {"key":"csp_Dm84","name":"🐞动漫巴士(SP)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ying","name":"🐞樱花动漫(SP)","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysj","name":"🐞异界动漫(SP)","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"js豆瓣","name":"豆瓣(js)","type":3,"api":"https://jihulab.com/breadmyth/tv/-/raw/main/js/drpy.min.js","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/js/drpy.js","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"Upso","name":"🔍️云搜(仅搜索)","type":"3","api":"csp_UpYun","searchable":"1","quickSearch":"1","filterable":"1","changeable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"Zhaozy","name":"👓找资源(仅搜索)","type":"3","api":"csp_Zhaozy","searchable":"1","quickSearch":"1","filterable":"1","changeable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt$$$yingshi$$$abcd1234"},
 {"key":"YiSo","name":"🔍️易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"AliPS","name":"🦊喵狸盘搜(仅搜索)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
+{"key":"push_agent","name":"阿里推送","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"csp_Nmys","name":"🌾农民影视┃直连","type":3,"api":"csp_Nmys","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Nmys/nmys.json"},
 {"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Hlsp/黑料.json"},
 {"key":"直播","name":"🅿电视┃直播","type":4,"playerType":1,"api":"http://120.53.102.254/live2?url=https://agit.ai/fantaiying/fty/raw/branch/master/live.txt"},
