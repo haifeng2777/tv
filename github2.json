@@ -3,7 +3,7 @@
 
 {
 
-"spider":"img+https://jihulab.com/breadmyth/tv/-/raw/main/jar/3-0315.jar;md5;28ED333EFE635E98DDD64AB99E38C7E8",
+"spider":"https://jihulab.com/breadmyth/tv/-/raw/main/jar/3-0315.jar;md5;28ED333EFE635E98DDD64AB99E38C7E8",
 
 "lives":[{
 	    "name": "Json",
