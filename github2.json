@@ -23,7 +23,7 @@
 {"key":"Lib","name":"🎉Libvio(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"78d057e4d03e47cb62dce13d69b41d6f"},
 {"key":"LiteApple","name":"🍎小苹果(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"6deed4548c44b18d268a5d828f04d86e"},
 {"key":"Gitcafe","name":"🐾小纸条(SP)","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
-{"key":"Bili","name":"🅱哔哩(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_Bili.json"},
+{"key":"Bili","name":"🅱哔哩(SP)","type":"3","api":"csp_Dora","searchable":"0","quickSearch":"1","filterable":"1","ext":"85b2986381a134ba3ebbaf25ae8138e7#https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_Bili.json"},
 {"key":"AList","name":"👫AList(SP)","type":"3","api":"csp_AList","searchable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/Alist.json"},
 {"key":"世界杯","name":"🐞一起看(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},
 {"key":"Hei","name":"🐞石榴(SP)","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45"},
