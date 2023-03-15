@@ -6,6 +6,7 @@
 //{"key":"AList","name":"👫AList(SP)","type": "3","api":"csp_AList","searchable":"1","ext": "https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/Alist.json"},
 
 
+
 {
 
 "spider": "https://jihulab.com/breadmyth/tv/-/raw/main/jar/0315fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
@@ -46,8 +47,8 @@
 {"key":"csp_Lib","name":"🎉Libvio(SP)","type":"3","api":"csp_Libvio","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc/"},
 {"key":"csp_Vofl","name":"🎈Voflix(SP)","type":3,"api":"csp_Voflix","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Paper","name":"🐾小纸条(SP)","type":"3","api":"csp_Paper","searchable":"1","quickSearch":"1","filterable":"1","changeable":0,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
-{"key":"Bili","name":"🅱B站(SP)","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Bili/csp_bili1.json"},
-{"key":"Biliych","name":"🅱演唱会(SP)","type":"3","api":"csp_Bili","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Bili/biliych.json"},
+{"key":"Bili","name":"🅱B站(SP)","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Bili/csp_bili1.json"},
+{"key":"Biliych","name":"🅱演唱会(SP)","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Bili/biliych.json"},
 {"key":"csp_YQKAPP","name":"🐞一起看(SP)","type":"3","api":"csp_YQKAPP","playerType":2,"m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://api-tx.shumaxc.xyz"},
 {"key":"csp_Lgyy","name":"🐞蓝光(SP)","type":"3","api":"csp_Lgyy","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://www.lgyy.tv"},
 {"key":"csp_Smdyy","name":"🐞神马(SP)","type":"3","api":"csp_Smdyy","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1"},
