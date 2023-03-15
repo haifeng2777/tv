@@ -9,16 +9,25 @@
 
 {
 
-"spider": "https://jihulab.com/breadmyth/tv/-/raw/main/jar/0313fty.jar;md5;4d4928e4505e301355aedfa1e43e9d71",
+"spider": "https://jihulab.com/breadmyth/tv/-/raw/main/jar/0315fty.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
 
 
 "lives": [{
-		    "name": "直播",
+		    "name": "live",
 		    "type": 0,
 		    "url": "https://jihulab.com/breadmyth/tv/-/raw/main/live/huya.txt",
+            "playerType":1,
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-}],
+            },
+            {
+            "name":"Json",
+            "type":1,
+            "url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo":"https://epg.112114.xyz/logo/{name}.png"
+            }
+],
 
 
 "sites": [
@@ -63,7 +72,7 @@
 {"key":"YiSo","name":"🔍️易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"AliPS","name":"🦊喵狸盘搜(仅搜索)","type":"3","api":"csp_PanSou","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://jihulab.com/breadmyth/tv/-/raw/main/collect_json/csp_t.txt"},
 {"key":"csp_Nmys","name":"🌾农民影视┃直连","type":3,"api":"csp_Nmys","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Nmys/nmys.json"},
-{"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jihulab.com/breadmyth/tv/-/raw/main/Hlsp/黑料.json"},
+{"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"./Hlsp/黑料.json"},
 {"key":"csp_Nbys","name":"🛫泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_If101","name":"🛫If101┃飞","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街┃飞","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
