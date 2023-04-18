@@ -22,7 +22,7 @@
 {"key":"push_agent","name":"🛎🍿🍦😝","type": 3,"api": "csp_Push","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/breadmyth/tv/main/collect_json/csp_t.json"},
 {"key":"csp_DiDuan","name":"😲低端影视(SP)","type":"3","api":"csp_Ddrk","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_AppTT","name":"🐰兔兔影院(SP)","type":"3","api":"csp_AppTT","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1","ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
-{"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc/"},
+{"key":"csp_BuLei","name":"💢布雷(SP)","type":3,"api":"csp_BuLei","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://movie.bulei.cc"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":"3","api":"csp_Kuaikan","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"csp_77","name":"👒七七(SP)","type":"3","api":"csp_Kunyu77","m3u8ads":"hd.youyhn.com","searchable":"1","quickSearch":"1","filterable":"1"},
 {"key":"AppMr","name":"👻明明(SP)","type":3,"api":"csp_AppMr","m3u8ads":"hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1},
